@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/toxic-royale/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Toxic Royale](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/toxic-royale/) |
+| **Get License** | [Secure Licensing Rights for Toxic Royale](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/toxic-royale/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan de vich nasha tera jadon kardi ishare
+> Raatan nu ni saun dinde mere dil de sahare
+> Chorni ban ke lutt leya tu chain ni sarrkar
+> Gaddi di raftar wangu chadh da tera khumar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
