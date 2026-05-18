@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Toxic Royale
+
+This log tracks the cryptographic history and versioning for the song **Toxic Royale** (toxic-royale).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-18T14:25:05.723383 | `v1` | `177de9e737959fadbd1a0e6a63bab32521159fbbea1da2d20f695bb6fb0c1308` | `b50e473abb22ca9fbc08341fe6b23e68bef51646057ae20bd0f4bf2f7f55dab5` | `2026-05-18_toxic-royale-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
